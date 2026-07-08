@@ -23,7 +23,7 @@ if errorlevel 1 exit /B 1
 set INCLUDE=%INCLUDE%;%~dp0\include
 set LIB=%LIB%;%~dp0\lib
 
-msbuild win32\vc17\liblber.sln /m /t:Clean;Rebuild /p:UseEnv=true /p:Configuration=Release /p:Platform=%VS_PLATFORM%
+msbuild win32\vc17\liblber.sln /m /t:Clean;Rebuild /p:UseEnv=true /p:Configuration=Release /p:Platform=%VS_PLATFORM% /p:PlatformToolset=v145
 if errorlevel 1 exit /B 1
 
 copy /Y /B Release\*.lib ..\lib
