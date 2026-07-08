@@ -1931,92 +1931,92 @@ index 0000000..7adce7e
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Debug|Win32'" Label="Configuration">
 +    <ConfigurationType>DynamicLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Release|Win32'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Debug|Win32'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Release|Win32'" Label="Configuration">
 +    <ConfigurationType>DynamicLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Debug|x64'" Label="Configuration">
 +    <ConfigurationType>DynamicLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Debug|ARM64'" Label="Configuration">
 +    <ConfigurationType>DynamicLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|ARM64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Release|x64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Release|ARM64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Debug|x64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Debug|ARM64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Release|x64'" Label="Configuration">
 +    <ConfigurationType>DynamicLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Release|ARM64'" Label="Configuration">
 +    <ConfigurationType>DynamicLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
 +  <ImportGroup Label="ExtensionSettings">
@@ -3217,92 +3217,92 @@ index 0000000..7500a86
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Debug|Win32'" Label="Configuration">
 +    <ConfigurationType>DynamicLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Release|Win32'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Release|Win32'" Label="Configuration">
 +    <ConfigurationType>DynamicLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Debug|Win32'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Debug|x64'" Label="Configuration">
 +    <ConfigurationType>DynamicLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Debug|ARM64'" Label="Configuration">
 +    <ConfigurationType>DynamicLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|ARM64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Release|x64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Release|ARM64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Release|x64'" Label="Configuration">
 +    <ConfigurationType>DynamicLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL Release|ARM64'" Label="Configuration">
 +    <ConfigurationType>DynamicLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Debug|x64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Debug|ARM64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
 +  <ImportGroup Label="ExtensionSettings">
@@ -4127,62 +4127,62 @@ index 0000000..c1383bd
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Debug|Win32'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Release|Win32'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Debug|x64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Debug|ARM64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|ARM64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Release|x64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Single Release|ARM64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'" Label="Configuration">
 +    <ConfigurationType>StaticLibrary</ConfigurationType>
 +    <UseOfMfc>false</UseOfMfc>
-+    <PlatformToolset>v143</PlatformToolset>
++    <PlatformToolset>v145</PlatformToolset>
 +  </PropertyGroup>
 +  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
 +  <ImportGroup Label="ExtensionSettings">

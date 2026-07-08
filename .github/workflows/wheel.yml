@@ -9,7 +9,6 @@ env:
   PYTHONLDAP_VER: python-ldap-3.4.7
   CIBW_TEST_COMMAND: python -c"import ldap;print(ldap.__version__)"
   CIBW_SKIP: "cp38* cp39* cp310*"
-  MSBUILDTREATHIGHERTOOLSVERSIONASCURRENT: 1
 
 jobs:
   build_amd64:
